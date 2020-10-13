@@ -1,0 +1,4 @@
+1. Create Dir "helpers" and Create File "helpers.go"
+2. Create Func Error Inside File "helpers.go"
+3. Create Dir "migratios" and File "migratios.go"
+4. Create struct for DB and Create Func "ConnectDB" Inside File "migratios.go"
