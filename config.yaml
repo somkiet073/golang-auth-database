@@ -1,0 +1,18 @@
+app:
+  env: "development"
+  port: 8080
+  debug: true
+
+mongodb:
+  url: "localhost"
+  port: "27017"
+  username: ""
+  password: ""
+
+mysqldb:
+  dbdriver : "mysql"
+	dbhost : "127.0.0.1"
+	dbport : "3306"
+	dbname : "godb"
+	dbuser : "root"
+	dbpass : ""
